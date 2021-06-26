@@ -49,7 +49,7 @@ Para executar o aplicativo, você precisa ter o [Node](https://nodejs.org/en/) i
     yarn start
     ```
 
-5) Acesse ```http: // localhost: 3000``` em seu navegador.
+5) Acesse ```http://localhost:3000``` em seu navegador.
 
 ---
 
